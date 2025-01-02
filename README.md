@@ -20,7 +20,7 @@ Hi! I'm a passionate **Go backend developer** with a deep interest in **blockcha
 - **Programming Languages**: Go, Python
 - **Blockchain Frameworks**: Cosmos SDK, ABCI++, Avail DA
 - **Tools & Platforms**: MongoDB, GitHub Actions, MySQL, Redis
-- **Other Skills**: API design, microservices architecture, performance optimization
+- **Other Skills**: API design, performance optimization
 
 ---
 
